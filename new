@@ -1,0 +1,21 @@
+total 88
+drwxr-xr-x. 7 root root  4096 Apr 29 07:48 .
+drwxr-xr-x. 3 root root    25 Apr 28 11:15 ..
+-rw-r--r--. 1 root root  4459 Apr 28 11:15 404.html
+-rw-r--r--. 1 root root    27 Apr 28 15:48 access.log
+-rw-r--r--. 1 root root  1226 Apr 28 11:15 apple-touch-icon-precomposed.png
+-rw-r--r--. 1 root root   603 Apr 28 11:15 crossdomain.xml
+drwxr-xr-x. 2 root root   182 Apr 28 11:15 css
+-rw-r--r--. 1 root root   766 Apr 28 11:15 favicon.ico
+drwxr-xr-x. 2 root root   167 Apr 28 11:15 fonts
+drwxr-xr-x. 8 root root   220 Apr 29 07:48 .git
+-rw-r--r--. 1 root root    20 Apr 28 15:51 .gitignore
+-rw-r--r--. 1 root root 29947 Apr 28 11:15 .htaccess
+-rw-r--r--. 1 root root   191 Apr 28 11:15 humans.txt
+-rw-r--r--. 1 root root  5154 Apr 28 11:15 index.html
+drwxr-xr-x. 3 root root    53 Apr 28 11:15 js
+drwxr-xr-x. 3 root root    42 Apr 28 12:48 level1
+-rw-r--r--. 1 root root     0 Apr 29 07:50 new
+-rw-r--r--. 1 root root   133 Apr 28 11:15 README.md
+-rw-r--r--. 1 root root    32 Apr 28 11:15 robots.txt
+-rw-r--r--. 1 root root   429 Apr 28 11:15 simple.html
