@@ -24,7 +24,11 @@
     gcp
     
 learn devops
+<<<<<<< HEAD
 more about rebase conflicts
 
 
 text aded after other branch modified
+=======
+this is DEVOPS SUCHERRRR!!!!!
+>>>>>>> 96b62f1... modified human.txt on master for conflict rebase
