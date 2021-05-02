@@ -25,3 +25,6 @@
     
 learn devops
 more about rebase conflicts
+
+
+text aded after other branch modified
