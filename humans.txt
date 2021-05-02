@@ -32,3 +32,6 @@ text aded after other branch modified
 =======
 this is DEVOPS SUCHERRRR!!!!!
 >>>>>>> 96b62f1... modified human.txt on master for conflict rebase
+
+
+git is very interesting
