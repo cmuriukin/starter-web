@@ -28,3 +28,5 @@ GIT
 Fork the Repo
 git rebase lesson
 adding git rebase lecture in git advanced
+advanced rebasing.
+git is awesome
