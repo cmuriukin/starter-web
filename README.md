@@ -30,3 +30,6 @@ git rebase lesson
 adding git rebase lecture in git advanced
 advanced rebasing.
 git is awesome
+
+
+editing from repository yeah
