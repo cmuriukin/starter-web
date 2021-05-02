@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 	charles muriuki
 	c.muriukin@gmail.com
-	ict officer
+	Devops Engineer
 # THANKS
 
     <name>
@@ -16,3 +16,6 @@
     HTML5, CSS3
     jQuery, Modernizr
     qwertyuiop
+    Docker
+    java programming
+    python
