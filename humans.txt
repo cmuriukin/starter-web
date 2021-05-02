@@ -4,7 +4,9 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+	charles muriuki
+	c.muriukin@gmail.com
+	ict officer
 # THANKS
 
     <name>
