@@ -24,4 +24,4 @@
     gcp
     
 learn devops
-
+more about rebase conflicts
