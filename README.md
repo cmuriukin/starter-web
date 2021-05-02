@@ -12,8 +12,8 @@ Sample website with plenty of files for demos
 TO
 GIT
 #AND
-#GITHUB
 
 #git on naother levl
 #tusker
 #guiness
+#GIT STATUS
