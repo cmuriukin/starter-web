@@ -19,3 +19,7 @@
     Docker
     java programming
     python
+    machine learning
+    aws
+    gcp
+    
